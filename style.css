@@ -1,0 +1,12 @@
+#paper {
+    width: 300px;
+    height: auto;
+    margin: 20px auto;
+    clear: both;
+    background-color: orange;
+ }
+ 
+ .grocery, .submit{
+    text-align: center;
+    margin: 20px;
+ }
